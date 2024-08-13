@@ -3,6 +3,7 @@
 	background-position: top;
 	background-size: 100px;
     text-align: center;
+	overflow: hidden;
 }
 #mycanvas{
 	border: 10px solid white;
